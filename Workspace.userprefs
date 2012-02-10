@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Comments/Comments/TConexion.cs">
+    <Files>
+      <File FileName="Comments/Comments/Default.aspx" Line="61" Column="92" />
+      <File FileName="Comments/Comments/Default.aspx.cs" Line="29" Column="18" />
+      <File FileName="Comments/Comments/Default.aspx.designer.cs" Line="27" Column="1" />
+      <File FileName="Comments/Comments/TConexion.cs" Line="14" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
