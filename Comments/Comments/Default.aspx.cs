@@ -2,6 +2,7 @@ using System;
 using System.Web;
 using System.Web.UI;
 using System.Data;
+using System.Web.Services;
 using Npgsql;
 
 
@@ -49,17 +50,9 @@ namespace Comments
 			nombre.Focus();
 		}
 		
-		/*
-		public DataSet leerComments(){
-			DataSet data = new DataSet();
-			TConexion conn = new TConexion();
-			conn.Conectar();
-			NpgsqlDataAdapter dataAdapter = new NpgsqlDataAdapter("SELECT * FROM comments",conn.Conector);
-			dataAdapter.Fill(data);
-			conn.Cerrar();
-			return data;
-		}	
-		*/
+		public void LeerMensajes(){
+			
+		}
 
 	}
 }

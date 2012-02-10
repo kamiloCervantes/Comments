@@ -65,4 +65,15 @@
       </Properties>
     </MonoDevelop>
   </ProjectExtensions>
+  <ItemGroup>
+    <WCFMetadata Include="Service References" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\readcomments" />
+    <WCFMetadataStorage Include="Service References\n192_168_1_2" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\readcomments\TempConvert.wsdl" />
+    <None Include="Service References\readcomments\TempConvert.disco" />
+  </ItemGroup>
 </Project>
